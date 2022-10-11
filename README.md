@@ -42,3 +42,6 @@ npm run start
 node server.js
 ```
 
+Test account for login:
+admin@test.com
+adminpass
